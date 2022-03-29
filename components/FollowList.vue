@@ -12,8 +12,6 @@
       <span>히어로</span>
       <v-icon>mdi-minus-circle-outline</v-icon>
     </v-list-item>
-    <div>123142141</div>
-    <div>hello</div>
   </v-list>
 </template>
 
