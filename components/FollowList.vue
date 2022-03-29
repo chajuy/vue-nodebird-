@@ -13,6 +13,7 @@
       <v-icon>mdi-minus-circle-outline</v-icon>
     </v-list-item>
   </v-list>
+  <div>dd</div>
 </template>
 
 <script>
